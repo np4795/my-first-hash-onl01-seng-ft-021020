@@ -1,5 +1,5 @@
 def my_hash
-  my_hash={"pluto, 
+  my_hash={"Mars" => "Planet", "Dwarf" => "Pluto"}
  
   
 end
